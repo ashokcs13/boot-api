@@ -1,0 +1,1 @@
+insert into employee (eid,ename,email,emobile,esalary) values (1,'Ashok','ask04ask@gmail.com','8826954693','1900');
